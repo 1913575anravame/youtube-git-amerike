@@ -1,0 +1,110 @@
+commit 21a58d82b0a1bbfb2278ce91b2a0303c941ef1db
+Author: Angel-Men25 <angel.valdez.25@hotmail.com>
+Date:   Mon Sep 11 14:54:16 2023 -0600
+
+    Agregando dos párrafos
+
+commit 9cabd7382eb64138cbc57baa4fc8b824572794bd
+Merge: b52a664 6328447
+Author: Angel-Men25 <angel.valdez.25@hotmail.com>
+Date:   Mon Sep 11 14:52:08 2023 -0600
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit b52a664d0e93442afe070d124f86c43fdfef6935
+Author: Angel-Men25 <angel.valdez.25@hotmail.com>
+Date:   Mon Sep 11 14:02:33 2023 -0600
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 6328447cb73e48635c0fc6673362f1c01eb9d5f1
+Author: Angel-Men25 <angel.valdez.25@hotmail.com>
+Date:   Mon Sep 11 14:02:33 2023 -0600
+
+    Agregando las estaciones del año
+
+commit 4c8dfc9ae906fd526840cabd36254ce77943fa55
+Merge: d06614e 19faa1a
+Author: Angel-Men25 <angel.valdez.25@hotmail.com>
+Date:   Mon Sep 11 13:45:16 2023 -0600
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 19faa1a446feea2bf3c803e8728ce6b87b12a61d
+Author: Angel-Men25 <angel.valdez.25@hotmail.com>
+Date:   Mon Sep 11 13:39:07 2023 -0600
+
+    Agregando index.js al index.html
+
+commit d06614ec99d064939d1753b351c5b1821365ef59
+Author: Angel-Men25 <angel.valdez.25@hotmail.com>
+Date:   Mon Sep 11 13:37:15 2023 -0600
+
+    Agregando style.css al index.html
+
+commit 9824cceac1c04e593972a5c130624900a60000c6
+Merge: bb1c425 512ee6b
+Author: Angel-Men25 <angel.valdez.25@hotmail.com>
+Date:   Mon Sep 11 13:28:08 2023 -0600
+
+    Merge branch 'js'
+
+commit 512ee6b0b8508b91794b12a71437edf08279c91c
+Author: Angel-Men25 <angel.valdez.25@hotmail.com>
+Date:   Mon Sep 11 13:23:25 2023 -0600
+
+    Creando index.js
+
+commit bb1c4253272f45e97b4fc1846f17918661d0f858
+Author: Angel-Men25 <angel.valdez.25@hotmail.com>
+Date:   Mon Sep 11 13:19:57 2023 -0600
+
+    Creando style.css
+
+commit 9b54b3d240566d2095f01f0633909497f9c5e759
+Author: Angel-Men25 <angel.valdez.25@hotmail.com>
+Date:   Mon Sep 11 13:16:58 2023 -0600
+
+    Creando index.html
+
+commit 5db222a4b7a37d144f4208b77af90d0e4c961cb8
+Author: Angel-Men25 <angel.valdez.25@hotmail.com>
+Date:   Mon Sep 11 13:07:40 2023 -0600
+
+    Se modifica .gitignore
+
+commit 2cf2a7cae300945e607ad64d4b967f696955c182
+Author: Angel-Men25 <angel.valdez.25@hotmail.com>
+Date:   Mon Sep 11 13:07:09 2023 -0600
+
+    Se modifica .gitignore
+
+commit fc1da6e1e830a47ee63b5dfff966dee73a3f5606
+Author: Angel-Men25 <angel.valdez.25@hotmail.com>
+Date:   Mon Sep 11 13:06:36 2023 -0600
+
+    Se modifica .gitignore
+
+commit 3ed3fe415c6e81cabe2a0d59bb81c0fd01517eca
+Author: Angel-Men25 <angel.valdez.25@hotmail.com>
+Date:   Mon Sep 11 13:04:22 2023 -0600
+
+    Se modifica .gitignore
+
+commit 3b1c86c3469d1bdde849e190f03d9ab9d415f621
+Author: Angel-Men25 <angel.valdez.25@hotmail.com>
+Date:   Mon Sep 11 13:02:31 2023 -0600
+
+    Se renombró license.txt
+
+commit 85700feb902562f31603ddc18aa4cd6f2503984f
+Author: Angel Valdez <117865017+Angel-Men25@users.noreply.github.com>
+Date:   Mon Sep 11 12:59:38 2023 -0600
+
+    Create LICENSE
+
+commit 4834530b781ff5a053d899f4f59986f1d0bdb87c
+Author: Angel-Men25 <angel.valdez.25@hotmail.com>
+Date:   Mon Sep 11 12:57:04 2023 -0600
+
+    Primer commit

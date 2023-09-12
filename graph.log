@@ -1,0 +1,25 @@
+* 21a58d8 Agregando dos párrafos
+*   9cabd73 Resolviendo conflicto en estaciones del año y fechas de inicio
+|\  
+| * 6328447 Agregando las estaciones del año
+* | b52a664 Agregando estaciones del año con fecha de inicio
+|/  
+*   4c8dfc9 Resolviendo conflicto merge main/html en el documento index.html
+|\  
+| * 19faa1a Agregando index.js al index.html
+* | d06614e Agregando style.css al index.html
+* |   9824cce Merge branch 'js'
+|\ \  
+| * | 512ee6b Creando index.js
+* | | bb1c425 Creando style.css
+| |/  
+|/|   
+* | 9b54b3d Creando index.html
+|/  
+* 5db222a Se modifica .gitignore
+* 2cf2a7c Se modifica .gitignore
+* fc1da6e Se modifica .gitignore
+* 3ed3fe4 Se modifica .gitignore
+* 3b1c86c Se renombró license.txt
+* 85700fe Create LICENSE
+* 4834530 Primer commit
